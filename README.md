@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aoife-mulvennna
-- 📚 I’m studying a conversion masters course in Software Development
+- 📚 I’m studying a conversion masters course in Software Development :)
 - 🌱 I’m currently learning methods, arrays, loops... all the basics of java!
 - 📫 Reach me via LinkedIn!
 
