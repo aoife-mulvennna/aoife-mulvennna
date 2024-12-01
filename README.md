@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @aoife-mulvennna
-- 📚 I’m studying a conversion masters course in Software Development :)
-- 🌱 I’m currently working on a web development project!
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/aoife-mulvenna/)!
 
 <!---
